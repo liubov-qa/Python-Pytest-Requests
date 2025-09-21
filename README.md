@@ -55,7 +55,7 @@ python3 -m pip install pytest
 
 Запускаем
 ``` markdown
-pytest tests/test_pokemon.py
+pytest tests/test_pokemons.py
 ```
 
 5. Ожидаемый результат: получим отчет о прохождении тестов.
